@@ -1,0 +1,21 @@
+{
+  "name": "icons8/icons-enricher",
+  "keywords": [
+    "flat icon", "vector", "svg", "responsive", "lineawesome", "line awesome", "fontawesome", "font awesome", "font-awesome", "icon", "icon font", "icons", "images", "page", "pages", "plugin", "post", "web icon", "widget", "decorate", "design", "icon list", "ui",
+    "interface", "social icons", "payment icon", "web icon", "material", "material design"
+  ],
+  "homepage": "https://enricher.icons8.com",
+  "license": "GPLv2 or later",
+  "authors": [
+    {
+      "name": "Pavel Volyntsev",
+      "email": "enricher@icons8.com",
+      "url": "https://enricher.icons8.com/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "description": "Enrich your website with styled, consistent, pixel-perfect, first-class, shiny ass icons. Insert icons in the post in less than 18 seconds.",
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
